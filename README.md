@@ -7,6 +7,14 @@ In this project, we implemented the leach clustering implementation with the AOD
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/20955005/132173862-476416f3-ef96-48e2-a1b8-41802d9300e0.png)
 
+## How Use
+[Install NS2 in linux](https://www.absingh.com/ns2/)
+
+run in terminal
+```
+ns Leach.tcl
+```
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
